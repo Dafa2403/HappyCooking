@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399581807196",
+    "firebase_url": "https://happycooking-db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "happycooking-db",
+    "storage_bucket": "happycooking-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399581807196:android:b2797dafeb54ae81651c99",
+        "android_client_info": {
+          "package_name": "com.happycooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399581807196-n0hvkbmppkgg12c6kupu5e0g3alefjg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCh0rdYDnubMt8DqQONHClA_VbuTyDA1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399581807196-n0hvkbmppkgg12c6kupu5e0g3alefjg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
